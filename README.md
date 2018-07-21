@@ -1,0 +1,2 @@
+# SyncPhone
+sync phone state
